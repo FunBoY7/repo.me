@@ -1,0 +1,37 @@
+Package: com.dgh0st.dvirtualhome
+Architecture: iphoneos-arm64
+Version: 0.0.16-1+debug
+Section: Tweaks
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.dgh0st.dvirtualhome_0.0.16-1_iphoneos-arm64.deb
+Size: 33534
+MD5sum: f3c9c1f3066382b337cca1c58b0f554c
+SHA1: 9774758f5dfc92968086a906b7253f483e54c734
+SHA256: efc1fb8130e51baa4436a84926212d5cf6814e5fe54f9a09b3d7dcad4baac3c6
+SHA512: db4c14c17c7480996e13d41ea0342e99372e832303f1d44bbfd29f082aaa7d20b52ecb47e9817d5cc084912b40e327327db7f0d74ca1552471a1ada8346bfd60
+Description: My attempt at making virtual home iOS 10 compatible.
+Name: DVirtualHome
+Author: DGh0st <deeppwnage@yahoo.com>
+
+Package: kr.xsf1re.vnodebypass
+Architecture: iphoneos-arm64
+Version: 0.4.1
+Section: System
+Maintainer: alias20
+Installed-Size: 612
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debians/kr.xsf1re.vnodebypass_0.4.1_iphoneos-arm64.deb
+Size: 87524
+MD5sum: 66595be22085e081cefb0b5973741709
+SHA1: c215376c28f539abc739b1dff8bdc5a40f82cc54
+SHA256: 090eff7c142104c805d09825a8f04e0d7d3ba123cc95741964316ea6cca06390
+SHA512: b0bad1efb94c5522e0a1c76d7b952637ade91fe3996a41cbbf74745a00078cb5eddaa46789bb73d863b050c7d57c25a0ecd6e89425fee832c2e4a2818b2db4b0
+Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Name: vnodebypass
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+

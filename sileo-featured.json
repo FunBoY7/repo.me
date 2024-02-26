@@ -4,9 +4,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/uchks/repo.me/master/assets/Banners/RepoHeader.png",
-        "title": "Sample Package",
-        "package": "com.example.sample",
+        "url": "https://funboy7.github.io/repo/assets/Banners/dvhead.jpeg",
+        "title": "DVirtualHome (rootless)",
+        "package": "com.dgh0st.dvirtualhome",
         "hideShadow": false
     }
   ]

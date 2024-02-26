@@ -1,0 +1,43 @@
+<package>
+	<id>com.dgh0st.dvirtualhome</id>
+	<name>DVirtualHome</name>
+	<version>0.0.16-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Позволяет назначить жесты TouchID</shortDescription>
+	<descriptionlist>
+		<description>Это обычный ДВиртуалХоум,но рутлесс</description>
+		<description>Все работает!</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>shot1.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<image>shot2.PNG</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Мой сайт</name>
+			<url>https://homepage.narod.ws</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

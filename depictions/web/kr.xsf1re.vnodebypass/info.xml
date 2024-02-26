@@ -1,0 +1,24 @@
+<package>
+	<id>kr.xsf1re.vnodebypass</id>
+	<name>vnodebypass</name>
+	<version>0.4.1</version>
+	<compatibility>
+		<firmware>
+		    <miniOS>15.0</miniOS>
+			<maxiOS>17.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Скрывает джейл от приложений.</description>
+	</descriptionlist>
+	<screenshots>shot1.png</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

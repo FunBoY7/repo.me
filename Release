@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: thez
+Components: main
+Date: Mon, 26 Feb 2024 07:22:40 +0000
+Description: мой репозиторий с приколами
+Label: thez's repo
+Origin: thez's repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 1ec16760661279c135584282d3a26eeb             1736 Packages
+ 0fb9714346c83331d70c91ee434ef7f7             1091 Packages.bz2
+ 774f264ef626c55b8b19f4ff89e8860d              991 Packages.gz
+ 3e38c76cd1f6dd0521fa7579f723baa8             1056 Packages.xz
+ ba268f95891d2cc898af86f2e92aca9c              989 Packages.zst
+ 2287e3bba04fde7dad620c0b7387632a              229 Release
+SHA1:
+ f35c13bd8d26f5f03707a0c1f4945fe53c2dec90             1736 Packages
+ 7a68ec5296a8fd0f8d87528c0a76e57370ffec75             1091 Packages.bz2
+ c6ab2e8190c85bccdd452236552fe8fa03cfd18d              991 Packages.gz
+ 6a613a84f10b99254bb2c2c3c0fe122dbcc66d54             1056 Packages.xz
+ 3b1b9053230d22fc765d827de120685b9cba4959              989 Packages.zst
+ 1c1ea43ebf29159fb9ba1a9a17da662d5a8e1cf2              229 Release
+SHA256:
+ 4d6dafbc9faf018ac324565ab772a085b60d4ce3b75f41fd0c9af07ddeb62d93             1736 Packages
+ 0ec6202efae0821674374657b6bbea79db09e86fe2b4399bdafda2588bb00011             1091 Packages.bz2
+ 9e91269b9ce78cb0962f40acf11434e24f17e14abbc5816598164c9b4ed7aaf3              991 Packages.gz
+ d31656d6d5e8cd4207af55a061127a9f5409d09dcb7a4bb19302d3699564703c             1056 Packages.xz
+ 554b7e0be006e3b11d04bacade9df4ebf576a5d19dd5a741f43f7078c3a5dc18              989 Packages.zst
+ b3d4ab08643991edaab41ceaf72a070fcaf32388fbf2d0f96b303b2a33c0ba46              229 Release
+SHA512:
+ 00c7de496537de88e3f14dc8df561d0be17beaa54935697ae294d17b7c4debb498c233b4b7f4b4572fcbefa53782387965507efab071a63c02c7f7214925fe83             1736 Packages
+ 09537364688ddb6b916e0b48f7df412f3ae8ab17d6e853be76ea0918bd435edfb690f7618bce3d5470ca209c8b60e5179522392c99f1d3cf2eea91a8493525fa             1091 Packages.bz2
+ 9b3e5de9dc9af7b8cdc9edf1036cf7783613e1d3724da20c9924d1739c699a2eac6d0b916b33a10f00790965a1978dae1451336e0fe2bbba66a8ca6b2578f401              991 Packages.gz
+ e70dcb4d99308693bd6e23f04ba6455b473325d9a446b4ba8b1aef5a7605c108ff2426c29f1838e6995aafdc81615bb796ae4b9ecb82d55dcf222ce16c271189             1056 Packages.xz
+ afd1853f774b4542516693866efefa26d6a14b0775c504aea8e1fb225f751e593cc4d5fa0dfd9d61783fb14dce026ed4a89d16b820d50235c47e11b3c62daa54              989 Packages.zst
+ 3a34e63d5999fdb913dee6c58336a3b02288400f11b5317a847db7f16f13ec0ec88a2ca77938810525285ed5f1734e28a8d971d8a7f643d704ed8bc38b1a9158              229 Release
